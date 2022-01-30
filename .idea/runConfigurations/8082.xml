@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="8082" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8082" router_script="$PROJECT_DIR$/router.cli.webserver.php" use_router_script="true">
+    <CommandLine>
+      <envs>
+        <env name="PHP_CLI_SERVER_WORKERS" value="10" />
+      </envs>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>
+
